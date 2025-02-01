@@ -25,21 +25,21 @@ Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with
 ---
 
 ## 📈 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliRaza&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza&layout=compact&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza019-js&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza019-js&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Featured Projects
-- 🚀 **[Catering Dashboard](https://github.com/AliRaza/Catering-Dashboard):** A scalable dashboard built with Vite, Vue.js, and Material UI.
-- 💡 **[Ramadan Decorations Script](https://github.com/AliRaza/Ramadan-Script):** A lightweight JavaScript library for festive themes.
+- 🚀 **[Catering Dashboard](https://github.com/aliraza019-js/Catering-Dashboard):** A scalable dashboard built with Vite, Vue.js, and Material UI.
+- 💡 **[Ramadan Decorations Script](https://github.com/aliraza019-js/Ramadan-Script):** A lightweight JavaScript library for festive themes.
 
 ---
 
 ## 🌍 Let's Connect!
 - 🌐 **Portfolio:** [meetaliraza.com](https://meetaliraza.com)
-- 💼 **LinkedIn:** [Ali Raza](https://linkedin.com/in/aliraza)
-- 🛠️ **Upwork:** [Ali Raza](https://www.upwork.com/freelancers/your-profile)
+- 💼 **LinkedIn:** [Ali Raza](https://linkedin.com/in/aliraza175)
+- 🛠️ **Upwork:** [Ali Raza](https://www.upwork.com/freelancers/~01121df7fb67609e8e)
 
 ---
 
