@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there! I'm **Ali Raza**
 
-<!--
-**aliraza019-js/aliraza019-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with over 5 years of experience crafting user-friendly web applications and scalable systems. 
 
-Here are some ideas to get you started:
+🌐 [Visit My Portfolio](https://meetaliraza.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Specializing in **Next.js**, **Nuxt.js**, **React.js**, **Vue.js**, **Node.js**, and more.
+- 🛠️ Building robust, secure, and modular solutions.
+- 🌱 Constantly learning modern technologies like **GSAP**, **Three.js**, and **TypeScript**.
+
+---
+
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliRaza&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza&layout=compact&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+- 🚀 **[Catering Dashboard](https://github.com/AliRaza/Catering-Dashboard):** A scalable dashboard built with Vite, Vue.js, and Material UI.
+- 💡 **[Ramadan Decorations Script](https://github.com/AliRaza/Ramadan-Script):** A lightweight JavaScript library for festive themes.
+
+---
+
+## 🌍 Let's Connect!
+- 🌐 **Portfolio:** [meetaliraza.com](https://meetaliraza.com)
+- 💼 **LinkedIn:** [Ali Raza](https://linkedin.com/in/aliraza)
+- 🛠️ **Upwork:** [Ali Raza](https://www.upwork.com/freelancers/your-profile)
+
+---
+
+### 🎉 Fun Fact:
+When I’m not coding, you can find me following the latest tech trends or cheering for **Pakistan Cricket Team**! 🏏🇵🇰
