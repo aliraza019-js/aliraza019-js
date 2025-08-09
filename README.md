@@ -33,7 +33,8 @@ Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with
 
 ## 🌟 Featured Projects
 - 🚀 **[Catering Dashboard](https://github.com/aliraza019-js/Catering-Dashboard):** A scalable dashboard built with Vite, Vue.js, and Material UI.
-- 💡 **[Ramadan Decorations Script](https://github.com/aliraza019-js/Ramadan-Script):** A lightweight JavaScript library for festive themes.
+- 💡 **[Ducorr Website](https://github.com/aliraza019-js/ducorr-website)** A Modern UI Business website.
+- 💡 **[Teams Management](https://github.com/aliraza019-js/teamsByWeb)** A Scaleable product for handling teams & resources managment.
 
 ---
 
