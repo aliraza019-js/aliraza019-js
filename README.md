@@ -24,9 +24,10 @@ Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with
 
 ---
 
-## 📈 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza019-js&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza019-js&layout=compact&theme=radical)
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza019-js&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza019-js&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
@@ -40,6 +41,11 @@ Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with
 - 🌐 **Portfolio:** [meetaliraza.com](https://meetaliraza.com)
 - 💼 **LinkedIn:** [Ali Raza](https://linkedin.com/in/aliraza175)
 - 🛠️ **Upwork:** [Ali Raza](https://www.upwork.com/freelancers/~01121df7fb67609e8e)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aliraza019-js&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/aliraza019-js?style=social)
+![Stars](https://img.shields.io/github/stars/aliraza019-js?style=social)
+
 
 ---
 
