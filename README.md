@@ -1,54 +1,108 @@
-# 👋 Hi there! I'm **Ali Raza**
+## 👋 Hi, I'm Ali Raza
 
-Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with over 5 years of experience crafting user-friendly web applications and scalable systems. 
+Senior Software Engineer focused on building scalable web applications, clean architectures, and high-performance user experiences.
 
-🌐 [Visit My Portfolio](https://meetaliraza.com)
-
----
-
-## 🚀 About Me
-- 💻 Specializing in **Next.js**, **Nuxt.js**, **React.js**, **Vue.js**, **Node.js**, and more.
-- 🛠️ Building robust, secure, and modular solutions.
-- 🌱 Constantly learning modern technologies like **GSAP**, **Three.js**, and **TypeScript**.
+I work across the stack, but my strength is turning complex ideas into fast, intuitive, and production-ready products.
 
 ---
 
-## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## Selected Work
+
+### **Ducorr Website**
+
+Modern business website with a strong focus on performance, responsiveness, and clean UI.
+
+* Optimized frontend architecture
+* Smooth UX and responsive layouts
+* Built for real-world production use
 
 ---
 
-## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza019-js&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza019-js&layout=compact&theme=radical&cache_seconds=1800)
+### **Marketing AI Platform (Full Stack)**
 
+AI-powered marketing system designed for automation and scalability.
 
----
-
-## 🌟 Featured Projects
-- 🚀 **[Catering Dashboard](https://github.com/aliraza019-js/Catering-Dashboard):** A scalable dashboard built with Vite, Vue.js, and Material UI.
-- 💡 **[Ducorr Website](https://github.com/aliraza019-js/ducorr-website)** A Modern UI Business website.
-- 💡 **[Teams Management](https://github.com/aliraza019-js/teamsByWeb)** A Scaleable product for handling teams & resources managment.
+* Full-stack architecture (FE + BE)
+* API-driven workflows
+* Built for handling real user data and processes
 
 ---
 
-## 🌍 Let's Connect!
-- 🌐 **Portfolio:** [meetaliraza.com](https://meetaliraza.com)
-- 💼 **LinkedIn:** [Ali Raza](https://linkedin.com/in/aliraza175)
-- 🛠️ **Upwork:** [Ali Raza](https://www.upwork.com/freelancers/~01121df7fb67609e8e)
+### **EFXPro (Strapi + Next.js)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=aliraza019-js&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/aliraza019-js?style=social)
-![Stars](https://img.shields.io/github/stars/aliraza019-js?style=social)
+Headless CMS solution combining flexibility with performance.
 
+* Strapi backend + Next.js frontend
+* Clean content modeling
+* Scalable and maintainable structure
 
 ---
 
-### 🎉 Fun Fact:
-When I’m not coding, you can find me following the latest tech trends or cheering for **Pakistan Cricket Team**! 🏏🇵🇰
+### **Teams Management System**
+
+A modular system for managing teams, workflows, and resources.
+
+* Scalable architecture
+* Focus on usability and structure
+* Built for real operational use
+
+---
+
+### **Wellness App (Ionic + React)**
+
+Cross-platform mobile application.
+
+* Built using Ionic + React
+* Demonstrates mobile + web versatility
+
+---
+
+## Tech Stack
+
+**Frontend**
+React, Next.js, Vue.js, Nuxt.js
+
+**Backend**
+Node.js, Express, Strapi
+
+**UI / Styling**
+Tailwind, Material UI
+
+**Tools**
+Git, Docker
+
+**Currently Exploring**
+TypeScript, Three.js, AI integrations
+
+---
+
+## GitHub Activity
+
+### GitHub Stats
+
+```html
+<img src="https://github-readme-stats.vercel.app/api?username=aliraza019-js&show_icons=true&theme=radical" />
+```
+
+### Contribution Graph
+
+```html
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliraza019-js&theme=react-dark" />
+```
+
+### Top Languages
+
+```html
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza019-js&layout=compact&theme=radical" />
+```
+
+---
+
+## 🌐 Let’s Connect
+
+* Portfolio: [https://aliraza.tech](https://aliraza.tech)
+* GitHub: [https://github.com/aliraza019-js](https://github.com/aliraza019-js)
+* LinkedIn: [https://linkedin.com/in/aliraza175](https://linkedin.com/in/aliraza175)
+* Upwork: [https://www.upwork.com/freelancers/~01121df7fb67609e8e](https://www.upwork.com/freelancers/~01121df7fb67609e8e)
+
+---
