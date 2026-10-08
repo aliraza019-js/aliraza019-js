@@ -49,12 +49,6 @@ Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliraza019-js&theme=onedark-duo&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
-//https://github-stats-extended.vercel.app/api?username=aliraza019-js&theme=radical
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-stats-extended.vercel.app/api?username=aliraza019-js&theme=radical" alt="GitHub Streak" /></a>
-</p>
-
 ---
 
 ## 🌟 Featured Projects
