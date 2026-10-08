@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate **Senior Software Engineer** with
 </p> -->
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliraza019-js" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliraza019-js&theme=onedark-duo&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
